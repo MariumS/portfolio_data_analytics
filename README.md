@@ -57,7 +57,6 @@ Assignment for Applied Data Analytics for Public Policy, taught by Julia Lane an
 <br>
 Date: April 20 1018
 <br>
-<br>
 Collaborators: Jacqueline Cafasso, Dahlia Darwiche, Timothy Hambridge, and Haoran Huang
 <br>
 Abstract: This study aims to predict the number of hotel hubs in a given zip code in New York City. Drawing on data from PLUTO and the American Community Survey (ACS), we use demographic and land-use variables to predict zip codes that have an above average number of hotels. Using a random sample of 30,000 observations from our overarching population, which contains over 30,000,000 records from 2011-2016, our analysis reveals that the mean score for hotel hub for the random sample was .155, suggesting that roughly 85% of the zip codes analyzed had a below average number of hotels. It follows that zip codes that have a below-average number of hotels, an abnormally high population, median household income, or assessed value may be prime spots to for future hotel establishments. Moreover, these initial results will serve as an enrichment tool for understanding the relationships between hotels and urban structure while also helping practitioners to identify tourism functional zones or potential sites for the establishment of new hotels.
