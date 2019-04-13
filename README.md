@@ -57,6 +57,9 @@ Assignment for Applied Data Analytics for Public Policy, taught by Julia Lane an
 <br>
 Date: April 20 1018
 <br>
+<br>
+Collaborators: Jacqueline Cafasso, Dahlia Darwiche, Timothy Hambridge, and Haoran Huang
+<br>
 Abstract: This study aims to predict the number of hotel hubs in a given zip code in New York City. Drawing on data from PLUTO and the American Community Survey (ACS), we use demographic and land-use variables to predict zip codes that have an above average number of hotels. Using a random sample of 30,000 observations from our overarching population, which contains over 30,000,000 records from 2011-2016, our analysis reveals that the mean score for hotel hub for the random sample was .155, suggesting that roughly 85% of the zip codes analyzed had a below average number of hotels. It follows that zip codes that have a below-average number of hotels, an abnormally high population, median household income, or assessed value may be prime spots to for future hotel establishments. Moreover, these initial results will serve as an enrichment tool for understanding the relationships between hotels and urban structure while also helping practitioners to identify tourism functional zones or potential sites for the establishment of new hotels.
 <br>
 Tools used: Python 
@@ -70,6 +73,8 @@ Related Code Snippet: counting_by_zip_codes.ipynb
 Assignment for Applied Data Science, taught by Tim Savage
 <br>
 Date: Dec 18 2018
+<br>
+Collaborators: Zoe Martiniak and Katharine Voorhees
 <br>
 Abstract: 
 A railway link to the LaGuardia airport has been a point of contention among city residents and travelers for two decades. The current AirTrain proposal will link to the 7 train and Long Island Rail Road (LIRR) at Mets-Willets point, claiming travel time of 30 minutes or less to Penn Station on the LIRR. Critics claim the LIRR is infrequent and will not provide reduced travel time to most parts of the city. To investigate this further, we test the hypothesis of whether the AirTrain will decrease Metropolitan Transit Authority (MTA) travel time for four origin points: Times Square, Harlem & 125th, Barclay’s Center and Flushing Library. For each origin location, real-time and scheduled travel data was obtained on the fastest routes to the airport, as determined by schedules. A Gaussian KDE distribution of wait times and travel times were produced for each leg of the journey and 1,000 random samples of total travel time were pulled for analysis. The travel times with and without the AirTrain were compared for each origin point using a Welsh 2 sample T-test. Our analysis concludes that out of the 4 locations we selected, the addition of the AirTrain solution would decrease travel time to the airport for those traveling from Times Square, Flushing Main Street, and the Barclay’s center.
