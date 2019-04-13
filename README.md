@@ -61,11 +61,12 @@ Abstract: This study aims to predict the number of hotel hubs in a given zip cod
 <br>
 Tools used: Python 
 <br>
+Related Code Snippet: counting_by_zip_codes.ipynb
 <br>
 
 <center>LaGuardia_Airtrain_Analysis</center>
 <br>
-assignment for Applied Data Science, taught by Tim Savage
+Assignment for Applied Data Science, taught by Tim Savage
 <br>
 Date: Dec 18 2018
 <br>
