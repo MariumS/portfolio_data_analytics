@@ -1,11 +1,5 @@
 # portfolio_data_analytics
 
-Description of items:
-
-nclude whether the research was employer
-or coursework related, and research hypotheses and findings. Describe what techniques were used. A sample analysis/report and coding sample should be attached.
-
-
 <center>Determining_Eviction_Correlates</center>
 <br>
 Date: June 20 2018
@@ -13,6 +7,7 @@ Date: June 20 2018
 Assignment for Geography Systems and Analysis, taught by Stephanie Rosoff
 <br>
 Central Question: How the amount of evictions and eviction filings in a census tract connected to the presence and number of CitiBike stations in that tract.
+<br>
 Bike sharing is accessed much less by lower income populations, and the presence of bike sharing stations is thought to be correlated with the gentrification of a neighborhood.
 <br>
 Why it matters: According to availible research, bike sharing is accessed much less by lower income populations, and the presence of bike sharing stations is thought to be correlated with the gentrification of a neighborhood. A symptom of gentrification is the removal of previous residents from their neighborhoods due to increasing lack of affordable rent. 
@@ -24,7 +19,7 @@ Result: We found a slight decrease in eviction filing counts, eviction filings p
 Next Steps: The slight negative correlation between eviction rates and CitiBike presence may be due to the census tracts, 217 out of Brooklyn’s total 841, having already undergone the population shift associated with gentrification. Additionally to honing our 2016 analysis, we would like to look at historical eviction data, and compare that to the current presence of CitiBike stations. This is to attempt a conclusion about evictions leading to a population
 shift, which we can then correlate with CitiBike Station presence. 
 <br>
-
+<br>
 
 <center>Unsolved_Homicides</center>
 <br>
@@ -34,23 +29,17 @@ Assignment for Geography Systems and Analysis, taught by Stephanie Rosoff
 <br>
 Central Question: What populations were experiencing more unsolved homicide cases. Our research looked at median household income of census tract the homicide occurred in, if it was within .1 miles of subsidized housing, and the race of the victim to try to determine if any or all of these factors had an impact on percentage of cases that fell under a certain case status. The three case statuses we divided the data into were ‘open’, ‘closed by arrest’ and closed without arrest.
 <br>
-Why it matters: 
+Why it matters: This research was inspired by an article in the Washington Post titled ‘Where Cases Go Unsolved’, published on June 6, 20181. This reporting sectioned out cities into high arrest and low arrest neighborhoods and found there are clear spatial variations in rates. Those from low arrest areas interviewed in various cities described feeling like the police are not trying hard enough, and the police say that cases are harder to solve in areas with low police trust and cooperation. This leads to a vicious cycle of people in neighborhoods where police trust is low, trusting the police even less as time passes as they see murderers committing crimes with impunity.
 <br>
 Tools used: ArcGIS
 <br>
-<br>
-Data used: Washington Post dataset containing information about 52,000 homicides. Geodata for the cities of LA and NYC. ACS demographic data by census tract. 
+Data used: Washington Post dataset containing information about 52,000 homicides. Geodata for the cities of LA and NYC, including locations of public housing. ACS demographic data by census tract. 
 <br>
 Result: We did not find a clear connection between either of the location income variables and case-status. However, these seems to be compelling evidence for the race of the victim influencing case-status, with Whites and Asians having the highest percentage of cases cleared and Blacks the lowest, in both cities.
 <br>
 Next Steps: This research finds a compelling argument for racial disparity in arrest rates, but still more factors have to be examined. We hope to get funding and access to private police force data for further research into this topic, to look more at income and other demographic attributes of either the victims or the scene of the crime.
 <br>
-
-
-
-
-
-
+<br>
 
 <center>Air_Quality_Sensors_NYC_Buses</center>
 <br>
@@ -71,7 +60,7 @@ Abstract: This study aims to predict the number of hotel hubs in a given zip cod
 <br>
 Tools used: Python 
 <br>
-
+<br>
 
 <center>LaGuardia_Airtrain_Analysis</center>
 <br>
@@ -85,7 +74,7 @@ A railway link to the LaGuardia airport has been a point of contention among cit
 Tools Used: Python
 <br>
 Related Code: https://github.com/zem232/LaGuardia-travel-times
-
+<br><br>
 
 
 
