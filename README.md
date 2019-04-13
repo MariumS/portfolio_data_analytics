@@ -49,6 +49,7 @@ Assignment for Civic Analytics & Urban Intelligence, taught by Neil Kleiman and 
 <br>
 Abstract: Relevant city, state and private interests should install air quality sensors on a sample of MTA buses that cover all bus routes. These sensors will transmit real-time data on PM 2.5, Nitrous Oxide, and Black Carbon to a central database, which will be publically accessible as open data. This project will benefit environmental researchers, help set and monitor emissions standards, and lead to the improving of public health. In the long run it will provide a proof of concept to other cities, and allow for the expanding of mobile air quality monitoring across the globe.
 <br>
+<br>
 
 <center>Hotel_Hubs</center>
 <br>
