@@ -1,14 +1,15 @@
-# portfolio_data_analytics
+<p align="center"> # portfolio_data_analytics
+<br>
+A description of the contents of this portfolio folder
 <br>
 <br>
-<br>
-<center>Determining_Eviction_Correlates</center>
+<p align="center"><center>Determining_Eviction_Correlates</center>
 <br><br>
 Date: June 20 2018
 <br><br>
 Assignment for Geography Systems and Analysis, taught by Stephanie Rosoff
 <br><br>
-Central Question: How the amount of evictions and eviction filings in a census tract connected to the presence and number of CitiBike stations in that tract.
+Central Question: How the amount of evictions and eviction filings in a census tract connected to the presence and number of CitiBike stations in that tract
 <br><br>
 Bike sharing is accessed much less by lower income populations, and the presence of bike sharing stations is thought to be correlated with the gentrification of a neighborhood.
 <br><br>
